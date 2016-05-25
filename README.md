@@ -25,3 +25,5 @@ ember simple auth = http://emberigniter.com/real-world-authentication-with-ember
 https://www.godaddy.com/garage/tech/config/how-to-restart-apache-without-rebooting-your-centos-linux-server/
 https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-centos-7
 
+# google:
+https://developers.googleblog.com/
