@@ -27,3 +27,7 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-ho
 
 # google:
 https://developers.googleblog.com/
+
+# apple:
+https://developer.apple.com/swift/blog/
+
