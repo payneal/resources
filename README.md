@@ -8,6 +8,7 @@ things I am currently using/referencing
 * django apache = https://www.youtube.com/watch?v=VNBpdT0N8hw
 * understanding wsgi/apache = https://www.youtube.com/watch?v=yoR9WhM3EiA
 * django cms = http://docs.django-cms.org/en/latest/how_to/install.html
+* have various versions on CentOS= https://www.digitalocean.com/community/tutorials/how-to-set-up-python-2-7-6-and-3-3-3-on-centos-6-4
 
 # javascript/node:
 * mysql batteries included = http://knexjs.org/
