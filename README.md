@@ -34,9 +34,12 @@ things I am currently using/referencing
 # apple:
 * swift: https://developer.apple.com/swift/blog/
 
-#intersting apis: 
+# intersting apis: 
 * recive phone calls: https://www.twilio.com/docs/api/twiml
 
-#audio video streaming server - Icecast
+# audio video streaming server - Icecast
 * http://www.icecast.org/docs/icecast-trunk/
+
+# Facebook
+https://developers.facebook.com/blog/
 
