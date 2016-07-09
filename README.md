@@ -11,7 +11,7 @@
 * django cms = http://docs.django-cms.org/en/latest/how_to/install.html
 * have various versions on CentOS= https://www.digitalocean.com/community/tutorials/how-to-set-up-python-2-7-6-and-3-3-3-on-centos-6-4
 * Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps. = https://kivy.org/#home
-* how to inststall pygame with pip
+* how to inststall pygame with pip = http://stackoverflow.com/questions/17869101/unable-to-install-pygame-using-pip
 
 # javascript/node:
 * mysql batteries included = http://knexjs.org/
@@ -59,6 +59,9 @@ python work = https://docs.python.org/2/tutorial/index.html
 *https://docs.python.org/3/
 *https://developer.mozilla.org/en-US/docs/Web/JavaScript
 *https://nodejs.org/api/
+
+# GIT
+clone a remote branch = http://stackoverflow.com/questions/1911109/clone-a-specific-git-branch
 
 # Old School
 * Mips - http://chortle.ccsu.edu/assemblytutorial/index.html
