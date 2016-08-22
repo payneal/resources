@@ -20,6 +20,9 @@
 * video chat 20 lines of javascript = https://www.pubnub.com/blog/2015-08-25-webrtc-video-chat-app-in-20-lines-of-javascript/
 * clanedar plugin = http://fullcalendar.io/
 
+* deploying webrtc app = http://piratefsh.github.io/projects/2015/08/27/webrtc-stun-turn-servers.html
+
+
 # ember:
 * progress bar = http://balinterdi.com/2014/06/18/indicating-progress-loading-routes-in-ember-dot-js.html
 * login that doesnt suck = http://blog.trackets.com/2013/05/23/how-to-write-a-login-form.html8 
